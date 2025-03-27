@@ -15,7 +15,7 @@ Both implementations are designed to search for a target element in a sorted arr
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/repository-name.git
+   git clone https://github.com/ahronlu/repository-name.git
    ```
 
 2. Navigate to the directory and open the JavaScript file (`binarySearch.js`).
